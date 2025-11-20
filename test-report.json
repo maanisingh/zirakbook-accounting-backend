@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-11-20T20:51:16.724Z",
+  "summary": {
+    "total": 5,
+    "passed": 5,
+    "failed": 0,
+    "passRate": "100.0"
+  },
+  "tests": [
+    {
+      "name": "Login",
+      "status": "PASS"
+    },
+    {
+      "name": "Get Current User",
+      "status": "PASS"
+    },
+    {
+      "name": "Verify Token",
+      "status": "PASS"
+    },
+    {
+      "name": "Refresh Token",
+      "status": "PASS"
+    },
+    {
+      "name": "Get All Users",
+      "status": "PASS"
+    }
+  ]
+}

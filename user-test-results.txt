@@ -1,0 +1,18 @@
+
+
+Detailed Results:
+
+✓ Get All Users: PASS
+✓ Create New User: PASS
+✗ Get User by ID: FAIL
+✗ Update User: FAIL
+✓ Get User Stats: PASS
+✗ Deactivate User: FAIL
+✗ Activate User: FAIL
+✗ Change User Status: FAIL
+✗ Get User Permissions: FAIL
+✗ Assign Permissions: FAIL
+✗ Revoke Permissions: FAIL
+✓ Get Users with Filters: PASS
+✗ Delete User: FAIL
+✓ Non-Admin Cannot Create User: PASS
